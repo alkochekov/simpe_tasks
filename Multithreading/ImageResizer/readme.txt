@@ -1,0 +1,1 @@
+image reduction program .It runs in 4 threads.
