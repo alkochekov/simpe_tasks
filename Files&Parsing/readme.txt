@@ -1,0 +1,3 @@
+the code that will read the csv file of the bank statement movementsList.csv and parse the resulting lines. Store the path to the extract file in a constant. Get the amount of expense and income for all operations in the Movements class, in the getExpenseSum() and getIncomeSum methods() respectively. Check parsing and getting sums using tests.
+You can supplement the Movements class with the necessary methods to implement the solution.
+The code displays summary information on this statement: total income, total expense and breakdown of expenses.
